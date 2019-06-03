@@ -1,3 +1,9 @@
+/*
+Written by: Shageldi Ovezov
+
+Completed as a part of Codecademy JavaScript course
+*/
+
 // object for generating a random meal
 const menu = {
   _courses : {
